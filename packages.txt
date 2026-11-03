@@ -1,3 +1,0 @@
-# Streamlit Cloud packages
-fonts-thai-tlwg
-fonts-noto-core
